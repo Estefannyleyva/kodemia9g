@@ -1,0 +1,49 @@
+*{
+    font-family:  'Courier New', Courier, monospace
+}
+
+header {
+    background-color: #00FFFF;
+    border: pink 3px solid;
+    margin-bottom: 32px;
+    padding-bottom: 2px;
+}
+
+nav {
+    background-color: #DF01A5;
+    margin:5px 30px;
+    min-height: 40px;
+}
+
+section {
+    background-color: #5882FA;
+    border: black 2px solid;
+    height: 480px;
+    width: 25%;
+    margin: 10px;
+    width: 60%;
+    float: left;
+}
+
+article {
+    background-color:#F781D8;
+    margin: 24px;
+    min-height: 115px;
+}
+
+aside {
+    background-color: #F7819F;
+    border: black 2px solid;
+    height: 480px;
+    width: 400px;
+    position: relative;
+    float: right;
+}
+
+footer{
+    background-color: #D0A9F5;
+    border: #0000FF solid;
+    margin-top: -50px;
+    height: 40px;
+    clear: both;
+}
