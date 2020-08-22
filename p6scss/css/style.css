@@ -1,0 +1,30 @@
+div .card {
+  width: 18rem;
+}
+
+div .card .img {
+  background-color: #868e96;
+  height: 150px;
+}
+
+div .card .card-body {
+  margin: 0;
+  padding: 0;
+}
+
+div .card .card-body p {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  margin: 0;
+  padding: 0;
+}
+
+div .card .card-body ul {
+  margin: 0;
+  padding: 0;
+}
+
+div .card .card-body ul li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  list-style: none;
+}
+/*# sourceMappingURL=style.css.map */

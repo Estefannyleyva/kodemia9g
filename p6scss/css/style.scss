@@ -1,0 +1,24 @@
+div .card{
+    width: 18rem;
+    .img{
+        background-color: rgb(134, 142, 150);
+        height: 150px;
+    }
+    .card-body {
+        margin: 0;
+        padding: 0;
+      p{
+        border-bottom: 1px solid rgba(0,0,0,.125);
+        margin: 0;
+        padding: 0;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+     li{
+        border-bottom: 1px solid rgba(0,0,0,.125);
+        list-style: none;
+    }
+   }
+  }
+}    
